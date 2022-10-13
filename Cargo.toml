@@ -1,0 +1,12 @@
+[workspace]
+members = [
+	"pallets/oracle-event-feed",
+	"pallets/struct-storage",
+	"pallets/vec-set",
+	"runtimes/super-runtime",
+	"nodes/basic-pow",
+	"nodes/kitchen-node",
+	"consensus/sha3pow",
+	"traits/account-set",
+]
+librocksdb-sys = "6.17.3"

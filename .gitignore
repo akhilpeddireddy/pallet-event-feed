@@ -1,0 +1,8 @@
+debug/
+release/
+binary/
+
+target/
+
+*.lock
+.DS_Store
